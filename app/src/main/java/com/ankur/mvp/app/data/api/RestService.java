@@ -1,8 +1,6 @@
 package com.ankur.mvp.app.data.api;
 
-
 import com.ankur.mvp.app.model.QuestionResponse;
-
 import io.reactivex.Flowable;
 import retrofit2.http.GET;
 import retrofit2.http.Query;

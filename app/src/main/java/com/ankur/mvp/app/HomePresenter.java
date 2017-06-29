@@ -1,11 +1,8 @@
 package com.ankur.mvp.app;
 
-
 import com.ankur.mvp.app.data.QuestionRepository;
 import com.ankur.mvp.app.model.QuestionResponse;
-
 import javax.inject.Inject;
-
 import io.reactivex.Flowable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;

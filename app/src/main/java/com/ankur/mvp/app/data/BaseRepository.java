@@ -1,8 +1,6 @@
 package com.ankur.mvp.app.data;
 
-
 import com.ankur.mvp.app.model.QuestionResponse;
-
 import io.reactivex.Flowable;
 
 /**

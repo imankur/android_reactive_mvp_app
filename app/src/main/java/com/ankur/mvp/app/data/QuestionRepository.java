@@ -1,12 +1,9 @@
 package com.ankur.mvp.app.data;
 
-
 import com.ankur.mvp.app.data.api.RestRepository;
 import com.ankur.mvp.app.data.database.DbRepository;
 import com.ankur.mvp.app.model.QuestionResponse;
-
 import javax.inject.Inject;
-
 import io.reactivex.Flowable;
 
 /**

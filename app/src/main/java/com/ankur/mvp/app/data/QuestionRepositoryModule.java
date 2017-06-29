@@ -1,10 +1,7 @@
 package com.ankur.mvp.app.data;
 
-
 import com.ankur.mvp.app.data.api.RestRepository;
-
 import javax.inject.Named;
-
 import dagger.Module;
 import dagger.Provides;
 

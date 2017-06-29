@@ -7,12 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.ankur.mvp.app.model.Question;
 import com.squareup.picasso.Picasso;
-
 import java.util.List;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 

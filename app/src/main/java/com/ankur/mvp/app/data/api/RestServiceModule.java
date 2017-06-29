@@ -1,7 +1,6 @@
 package com.ankur.mvp.app.data.api;
 
 import javax.inject.Named;
-
 import dagger.Module;
 import dagger.Provides;
 import retrofit2.CallAdapter;

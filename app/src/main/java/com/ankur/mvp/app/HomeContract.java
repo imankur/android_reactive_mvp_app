@@ -1,8 +1,6 @@
 package com.ankur.mvp.app;
 
-
 import com.ankur.mvp.app.model.Question;
-
 import java.util.List;
 
 /**
